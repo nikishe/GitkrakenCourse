@@ -1,0 +1,3 @@
+-creating the first repo
+-add file to repo
+something something something
